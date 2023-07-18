@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Oreo",
+    "description": "Galletas de chocolate rellenas de crema",
+    "price": 10.99,
+    "image": "src/images/oreo.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Helado Oreo",
+    "description": "Helado de vainilla con trozos de galleta",
+    "price": 19.99,
+    "image": "src/images/oreo helado.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Caja Mini Oreo",
+    "description": "Contiene 6 unids de Mini Oreo original",
+    "price": 14.99,
+    "image": "src/images/mini oreo.jpeg"
+  }
+]
